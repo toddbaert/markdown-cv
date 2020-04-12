@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Todd Baert CV
+title: Todd Baert
 ---
 # Todd Baert
 
