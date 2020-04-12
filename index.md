@@ -7,6 +7,7 @@ title: Todd Baert
 Full-stack software develoer, with experience in application security, enterprise integration, and UI engineering.
 
 [LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)
+
 [GitHub](https://github.com/toddbaert)
 
 
@@ -27,12 +28,12 @@ Application developer with Urban Science. Full-stack web and business intelligen
 
 ## Education
 
-`2015`
+`2012-2015`
 __University of Windsor__
 
 General Computer Science, with distinction
 
-`2011`
+`2007-2011`
 __University of Windsor__
 
 Honours Biological Sciences with thesis
