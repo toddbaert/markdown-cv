@@ -36,6 +36,7 @@ General Computer Science, with distinction
 __University of Windsor__
 
 Honours Biological Sciences with thesis
+
 *Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis* (an investigation into the development of the vertebrate optical lens)
 
 
