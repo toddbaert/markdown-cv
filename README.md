@@ -1,12 +1,13 @@
 ---
 layout: cv
-title: Todd Baert CV
+title: Todd Baert
 ---
 # Todd Baert
 
 Full-stack software developer with experience in application security, enterprise integration, and UI engineering.
 
 [LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)
+
 [GitHub](https://github.com/toddbaert)
 
 
@@ -19,7 +20,7 @@ __Senior Software Developer with Dynatrace__. Led a team of engineers in develop
 __Enterprise Integration Consultant with Red Hat__. Designed solutions leveraging open-source tools and platforms such as API gateways, message brokers, and middleware, to solve the mission-critical technical challenges of enterprise clients.
 
 `2016-2017`
-__Application developer with Compuware__. Used Java EE to develop and enhance a variety of mainframe performance monitoring, source code management, and CI/CD tools for enterprise and government.
+__Application Developer with Compuware__. Used Java EE to develop and enhance a variety of mainframe performance monitoring, source code management, and CI/CD tools for enterprise and government.
 
 `2014-2016`
 __Application Developer with Urban Science__. Full-stack web and business intelligence developer responsible for data modelling, domain logic, front-end development, and CI/CD.
@@ -27,17 +28,17 @@ __Application Developer with Urban Science__. Full-stack web and business intell
 
 ## Education
 
-`2015`
+`2012-2015`
 __University of Windsor__
 
-General Computer Science, with distinction
+Bachelor of Computer Science, with distinction
 
-`2011`
+`2007-2011`
 __University of Windsor__
 
-Honours Biological Sciences with thesis
+Bachelor of Biological Sciences, honours
 
-*Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis* (an investigation into the development of the vertebrate optical lens)
+Thesis: *Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis* (an investigation into the development of the vertebrate optical lens)
 
 
 ## Selected Accomplishments
