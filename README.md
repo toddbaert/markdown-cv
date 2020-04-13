@@ -4,7 +4,7 @@ title: Todd Baert CV
 ---
 # Todd Baert
 
-Full-stack software develoer, with experience in application security, enterprise integration, and UI engineering.
+Full-stack software developer with experience in application security, enterprise integration, and UI engineering.
 
 [LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)
 [GitHub](https://github.com/toddbaert)
@@ -13,16 +13,16 @@ Full-stack software develoer, with experience in application security, enterpris
 ## Experience
 
 `2018-present`
-Senior Software Developer with Dynatrace. Led developement of customer-facing account management, and identity/access managment APIs and UIs.
+__Senior Software Developer with Dynatrace__. Led a team of engineers in development and maintenance of customer-facing account management, and identity management APIs and UIs built on microservices and the latest front-end web technologies.
 
 `2017-2018`
-Enterprise Integration Consultant with Red Hat. Helped enterprises leverage open-source tools and platforms to solve their mission-critical technical challanges.
+__Enterprise Integration Consultant with Red Hat__. Designed solutions leveraging open-source tools and platforms such as API gateways, message brokers, and middleware, to solve the mission-critical technical challenges of enterprise clients.
 
 `2016-2017`
-Application developer with Compuware. Java developer and systems analyst. Working to develop and enhance industry standard mainframe performance monitoring, source code management, and deployment tools for enterprise and government.
+__Application developer with Compuware__. Used Java EE to develop and enhance a variety of mainframe performance monitoring, source code management, and CI/CD tools for enterprise and government.
 
 `2014-2016`
-Application developer with Urban Science. Full-stack web and business intelligence developer responsible for data modelling, object oriented domain logic, front-end development, and CI/CD.
+__Application Developer with Urban Science__. Full-stack web and business intelligence developer responsible for data modelling, domain logic, front-end development, and CI/CD.
 
 
 ## Education
@@ -36,26 +36,31 @@ General Computer Science, with distinction
 __University of Windsor__
 
 Honours Biological Sciences with thesis
+*Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis* (an investigation into the development of the vertebrate optical lens)
 
 
-## Selected accomplishments
+## Selected Accomplishments
 
 `2019-2020`
-Implemented various access-control and indentity management integrations and features for an industry-leading SaaS application-monitoring tool.
+Implemented access-control and identity management integrations and features including SAML, SCIM, Oauth, and REST APIs, for an industry-leading SaaS application-monitoring tool.
 
 `2018-2019`
-Redesigned and implemented account management UIs for a tool with thousands of users, while maintaining 100% update and a seemless user-experience.
+Redesigned and reimplemented a monolithic Java EE/GWT account management web application serving thousands of users, while maintaining 100% uptime and a seamless user-experience, using Angular 7-9.
 
 `2015`
-Designed and implemented a microservice for delevery of application updates for a loading mainframe tooling suite.
+Designed and implemented a microservice for delivery of application updates for a mainframe tooling suite, using AWS and Node.js.
 
-## Selected Proficiencies and Skills:
 
-__Languages, etc__
+## Selected Proficiencies and Skills
+
+__Languages, Etc__
+
 JavaScript, Typescript, Java, C#, C, HTML5, CSS3, SCSS, SQL
 
-__Standards & principles__
-REST, OO design patterns, SOLID Principles, responsive design, fest driven development
+__Standards & Principles__
 
-__Platforms tools & runtimes__
+REST, OO design patterns, SOLID principles, responsive design, test driven development
+
+__Platforms, Tools & Runtimes__
+
 Node.js, Angular/AngularJS, Java EE, .NET core/framework, OSGi, Linux, Windows, git
