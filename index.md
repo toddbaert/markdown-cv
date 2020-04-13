@@ -6,8 +6,7 @@ title: Todd Baert
 
 Full-stack software developer with experience in application security, enterprise integration, and UI engineering.
 
-[LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)
-
+[LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)  
 [GitHub](https://github.com/toddbaert)
 
 
@@ -38,7 +37,8 @@ __University of Windsor__
 
 Bachelor of Biological Sciences, honours
 
-Thesis: *Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis* (an investigation into the development of the vertebrate optical lens)
+Thesis: *Factors Affecting β-Crystallin Expression and Lens Differentiation in X. Laevis*  
+(an investigation into the development of the vertebrate optical lens in the African Clawed Frog)
 
 
 ## Selected Accomplishments
