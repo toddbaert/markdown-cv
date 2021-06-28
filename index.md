@@ -4,15 +4,18 @@ title: Todd Baert
 ---
 # Todd Baert
 
-Full-stack software developer with experience in application security, enterprise integration, and UI engineering.
+Full-stack software engineer with experience in IAM, application security, enterprise integration, and UI development.
 
-[LinkedIn](https://www.linkedin.com/in/todd-baert-739b1bb8)  
+[LinkedIn](https://www.linkedin.com/in/toddbaert)  
 [GitHub](https://github.com/toddbaert)
 
 
 ## Experience
 
-`2018-present`
+`2020-present`
+__Staff Software Engineer with Cloudbees__. Leading development of new IAM functionality for Cloudbees' Saas platform, and supporting existing features.
+
+`2018-2020`
 __Senior Software Developer with Dynatrace__. Led a team of engineers in development and maintenance of customer-facing account management, and identity management APIs and UIs built on microservices and the latest front-end web technologies.
 
 `2017-2018`
