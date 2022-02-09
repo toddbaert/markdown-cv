@@ -13,10 +13,10 @@ Full-stack software engineer with experience in IAM, application security, enter
 ## Experience
 
 `2020-present`
-__Staff Software Engineer with Cloudbees__. Leading development of new IAM functionality for Cloudbees' Saas platform, and supporting existing features.
+__Staff Software Engineer, Team Lead with Cloudbees__. Leading development of new IAM functionality for Cloudbees' Saas platform, and supporting existing features.
 
 `2018-2020`
-__Senior Software Developer with Dynatrace__. Led a team of engineers in development and maintenance of customer-facing account management, and identity management APIs and UIs built on microservices and the latest front-end web technologies.
+__Senior Software Engineer with Dynatrace__. Led a team of engineers in development and maintenance of customer-facing account management, and identity management APIs and UIs built on microservices and the latest front-end web technologies.
 
 `2017-2018`
 __Enterprise Integration Consultant with Red Hat__. Designed solutions leveraging open-source tools and platforms such as API gateways, message brokers, and middleware, to solve the mission-critical technical challenges of enterprise clients.
@@ -45,6 +45,9 @@ Thesis: *Factors Affecting β-Crystallin Expression and Lens Differentiation in 
 
 
 ## Selected Accomplishments
+
+`2021`
+Passed CISSP (Certified Information Systems Security Professional) examination.
 
 `2019-2020`
 Implemented access-control and identity management integrations and features including SAML, SCIM, Oauth, and REST APIs, for an industry-leading SaaS application-monitoring tool.
